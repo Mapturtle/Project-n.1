@@ -1,5 +1,3 @@
-from sqlalchemy import false, true
-
 
 character_name = "kral"
 character_age = "stary"

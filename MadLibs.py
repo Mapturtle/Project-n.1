@@ -1,0 +1,6 @@
+color = input( "Enter a color")
+plural_noun = input( "Enter a plural noun")
+fruit = input( "Enter a fruit")
+print(" My hair is" + color)
+print( plural_noun + " are purple")
+print(" I love " + fruit)
