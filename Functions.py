@@ -5,3 +5,5 @@ print("Top")
 say_hi("5", "14")
 say_hi("Mike", "16")
 print("Bottom")
+
+# Funkce ti slouzi jako pomocnik pouzijes ho vicekrat s promenymi 
